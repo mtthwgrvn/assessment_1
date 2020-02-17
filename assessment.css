@@ -9,6 +9,10 @@ body{
   margin: 0;
   padding: 0;
 }
+head{
+  justify-content: center;
+  align-content: center;
+}
 main {
   margin-left: auto;
   margin-right: auto;
